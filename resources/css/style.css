@@ -1,0 +1,42 @@
+#header{
+
+    background-color: black;
+}
+
+a {    
+    text-decoration: none;
+}
+
+#hero {
+    background-image: url(https://wallpapers.com/images/featured/super-mario-fkq1k1pst35iab2c.jpg);
+    background-size: cover;
+    height: 650px;
+    background-size: cover;
+    color: red;
+
+}
+
+#about{
+    background-color: red;
+}
+
+.section-header h2:after {
+    background-color: red;
+}
+
+#hero2 {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dfu6vo6-9d7336b6-aae1-48c9-a196-30c0dc8223a4.jpg/v1/fill/w_1192,h_670,q_70,strp/the_super_mario_bros_movie_wallpaper_by_thekingblader995_dfu6vo6-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGZ1NnZvNi05ZDczMzZiNi1hYWUxLTQ4YzktYTE5Ni0zMGMwZGM4MjIzYTQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ChNuLMs7CCcHaI_JdZfBYGo0zkRcA9Gh3vTOyg1XRYY);
+    background-size: cover;
+    height: 800px;
+    background-size: cover;
+    color: red;
+
+}
+
+label {
+    color:black;
+}
+.my-btn{
+    border: none;
+    background-color: red;
+}
